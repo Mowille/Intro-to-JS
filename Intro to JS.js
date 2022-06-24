@@ -1,0 +1,1 @@
+console.log("Name: Sunday Michael Okoh\nHeight: 6ft2\nCountry: Nigeria")
